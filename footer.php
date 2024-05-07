@@ -1,5 +1,5 @@
 <?php
 
-echo'</div>';
+    echo'</div>';
 
-echo '<div class="footer">Webmaster: &copy; 2024</div>';
+    echo '<div class="footer">Webmaster: &copy; 2024</div>';
